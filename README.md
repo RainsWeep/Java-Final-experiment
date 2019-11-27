@@ -1,2 +1,2 @@
-# Java-Final-experiment
+# 计181 张博元 2018310730
 Java最后一次实验，完善学生选课系统。
