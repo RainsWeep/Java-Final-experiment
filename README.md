@@ -109,9 +109,12 @@ File file=new File("C:\\Users\\18301\\Desktop\\课程信息.txt");
 						}
 					//将students类的参数写入文本文件
 
+
 六、运行截图
 
-GUi截图：![text]()
-被读取的文本文件《课程信息》的截图：![text]()
-被写入的文本文件《text》的截图：![text]()
+GUi截图：![text](https://github.com/RainsWeep/Java-Final-experiment/blob/master/1574867401(1).png)
+被读取的文本文件《课程信息》的截图：![text](https://github.com/RainsWeep/Java-Final-experiment/blob/master/1574867426(1).png)
+被写入的文本文件《text》的截图：![text](https://github.com/RainsWeep/Java-Final-experiment/blob/master/1574867439(1).png)
 
+
+七、编程感想
