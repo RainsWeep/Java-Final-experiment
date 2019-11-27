@@ -108,3 +108,10 @@ File file=new File("C:\\Users\\18301\\Desktop\\课程信息.txt");
 						n.printStackTrace();
 						}
 					//将students类的参数写入文本文件
+
+六、运行截图
+
+GUi截图：![text]()
+被读取的文本文件《课程信息》的截图：![text]()
+被写入的文本文件《text》的截图：![text]()
+
