@@ -112,9 +112,18 @@ File file=new File("C:\\Users\\18301\\Desktop\\课程信息.txt");
 
 六、运行截图
 
+
 GUi截图：![text](https://github.com/RainsWeep/Java-Final-experiment/blob/master/1574867401(1).png)
+
+
+
+
 被读取的文本文件《课程信息》的截图：![text](https://github.com/RainsWeep/Java-Final-experiment/blob/master/1574867426(1).png)
+
+
 被写入的文本文件《text》的截图：![text](https://github.com/RainsWeep/Java-Final-experiment/blob/master/1574867439(1).png)
 
 
 七、编程感想
+这是本学期最后一次实验，综合了前几次实验的功能，将需要的方法集于一炉，形成了最终的程序，选课系统的功能得到了完善与补充。我经历了老师给的例子打不开、GUI显示异常、无法获取数据等等问题，但我一一解决了，通过不断地尝试，最终终于调试出了合适的GUI界面来承载实验二的选课系统的功能，虽然做的GUI仍不漂亮也还有小bug，但是确实是比曾经的自己有所进步。
+我还会继续完善我的Java知识储备，达到学以致用。
