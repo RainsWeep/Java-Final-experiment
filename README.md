@@ -20,6 +20,7 @@ Java最后一次实验，完善学生选课系统。
 
 
 五、核心代码和注释 
+```javascript
 	JLabel label1;JLabel label2;JLabel label3;JLabel 	label4,label5;JLabel label6;//定义标签
 	JButton button1,button2;//定义按钮
 	TextArea ta1,ta2;//定义显示文本框
@@ -109,7 +110,7 @@ File file=new File("C:\\Users\\18301\\Desktop\\课程信息.txt");
 						}
 					//将students类的参数写入文本文件
 
-
+```
 六、运行截图
 
 
